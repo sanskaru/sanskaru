@@ -8,6 +8,6 @@ Alongside it, I'm also a community contributor and app development lead at [TheD
 
 * [My Portfolio Website](https://sanskaru.netlify.app)
 * [LinkedIn](https://www.linkedin.com/in/sanskaru090/)
+* [Check out TheDevByte on Discord!](https://discord.gg/6ywjNS)
 * [Twitter](https://twitter.com/sannvict090)
 * [Instagram](https://instagram.com/sannvict090)
-* [Check out TheDevByte on Discord!](https://discord.gg/6ywjNS)
