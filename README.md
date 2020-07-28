@@ -4,6 +4,13 @@ I am Sanskar Upadhyay, a 21 yo CSE Undergrad and a Novice in Android Development
 
 Alongside it, I'm also a community contributor and app development lead at [TheDevByte](http://github.com/thedevbyte), a community of developers who love open-source and wish to contribute to the real world via our code.
 
+## Languages I use
+
+* Java
+* XML
+* C
+* C++
+
 ## Contact Me
 
 * [My Portfolio Website](https://sanskaru.netlify.app)
