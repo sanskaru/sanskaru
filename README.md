@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Sanskar Upadhyay, a 21 yo CSE Undergrad and a Novice in Android Development. I'm currently an app development intern at The Society of AI, and have previously worked as an app development intern at [applex.in.](http://applex.in)
+I am Sanskar Upadhyay, a 21 yo CSE Undergrad and a Novice in Android Development. I'm currently an app development intern at **The Society of AI**, and have previously worked as an app development intern at [applex.in.](http://applex.in)
 
 Alongside it, I'm also a community contributor and app development lead at [TheDevByte](http://github.com/thedevbyte), a community of developers who love open-source and wish to contribute to the real world via our code.
 
